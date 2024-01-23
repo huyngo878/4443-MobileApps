@@ -1,3 +1,3 @@
-# 4443-MobileApps
-## Huy Ngo
-## huyngo878@yahoo.com
+# Huy Ngo
+#### Repo: 4443 Mobile App Dev
+#### Email: Huyngo878@yahoo.com
