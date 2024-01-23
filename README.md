@@ -1,2 +1,3 @@
 # 4443-MobileApps
-Mobile App Dev
+## Huy Ngo
+## huyngo878@yahoo.com
