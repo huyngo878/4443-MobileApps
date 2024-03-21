@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   A05   | link 0      | React App for A05         |
+|   A05   | [ReactApp ](https://github.com/huyngo878/StudentMangementReactApp)https://github.com/huyngo878/StudentMangementReactApp     | React App for A05         |
